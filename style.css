@@ -1,0 +1,42 @@
+*{
+   margin: 0;
+   padding: 0;
+   
+   }
+
+.wrapper{
+          width: 1000;
+          margin: auto;
+} 
+body{
+background-image:url('image/bg3.jpg');
+height:100vh;
+background-size: cover;
+background-position: center center;
+position: relative;
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 36px;
+    line-height: 36px;
+    background-color: #FF8333;
+    font-size: 13px;
+    
+}
+li {
+    float: left;
+    border-right: 1px solid #33FFE9;
+}
+a{
+    display: block;
+    color: #fff;
+    padding: 0 28px;
+    text-decoration: none;
+}
+
+
